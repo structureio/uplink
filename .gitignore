@@ -1,0 +1,7 @@
+*.vcxproj.user
+*.sdf
+*.opensdf
+*.suo
+builds
+CMakeLists.txt.user
+trash/
